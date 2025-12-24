@@ -7,3 +7,4 @@ padelpy
 joblib
 scikit-learn
 bidict
+seaborn
