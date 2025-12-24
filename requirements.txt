@@ -4,3 +4,5 @@ pandas
 numpy
 rdkit
 padelpy
+joblib
+scikit-learn
