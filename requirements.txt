@@ -6,3 +6,4 @@ rdkit
 padelpy
 joblib
 scikit-learn
+bidict
