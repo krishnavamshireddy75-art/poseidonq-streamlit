@@ -9,3 +9,5 @@ scikit-learn
 bidict
 seaborn
 xgboost
+openpyxl
+streamlit-ketcher
